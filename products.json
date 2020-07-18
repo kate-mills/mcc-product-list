@@ -1,6 +1,5 @@
 {
- "MCC": {
-    "products": [
+  "products": [
       {
         "category": "cleanser",
         "name": "Calming Cleansing Oil & Makeup Remover",
@@ -26,6 +25,5 @@
         "name": "Plump Me Up Hydrating Mist",
         "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
       }
-    ]
-  }
+   ]
 }
