@@ -1,0 +1,31 @@
+{
+ "MCC": {
+    "mccProducts": [
+      {
+        "category": "cleanser",
+        "name": "Calming Cleansing Oil & Makeup Remover",
+        "contentful_id": "4adS5UN7n8L4qX2eF68oex"
+      },
+      {
+        "category": "cleanser",
+        "name": "Corrective Salicylic Cleanser",
+        "contentful_id": "67ejaiy8KeBTijWmTfOndE"
+      },
+      {
+        "category": "cleanser",
+        "name": "Gentle Cleansing Milk",
+        "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
+      },
+      {
+        "category": "toner",
+        "name": "Pore Purifying Toner",
+        "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
+      },
+      {
+        "category": "toner",
+        "name": "Plump Me Up Hydrating Mist",
+        "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
+      }
+    ]
+  }
+}
