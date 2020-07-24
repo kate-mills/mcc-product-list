@@ -1,29 +1,70 @@
 {
   "products": [
-      {
-        "category": "cleanser",
-        "name": "Calming Cleansing Oil & Makeup Remover",
-        "contentful_id": "4adS5UN7n8L4qX2eF68oex"
-      },
-      {
-        "category": "cleanser",
-        "name": "Corrective Salicylic Cleanser",
-        "contentful_id": "67ejaiy8KeBTijWmTfOndE"
-      },
-      {
-        "category": "cleanser",
-        "name": "Gentle Cleansing Milk",
-        "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
-      },
-      {
-        "category": "toner",
-        "name": "Pore Purifying Toner",
-        "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
-      },
-      {
-        "category": "toner",
-        "name": "Plump Me Up Hydrating Mist",
-        "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
-      }
+
+     {
+          "category": "cleanser",
+          "name": "Pore Purifying Cleanser",
+          "contentful_id": "1Ig4fXXiQRX90qKNmQmWjp"
+        },
+        {
+          "category": "cleanser",
+          "name": "Corrective Salicylic Cleanser",
+          "contentful_id": "67ejaiy8KeBTijWmTfOndE"
+        },
+        {
+          "category": "cleanser",
+          "name": "Resurfacing Glycolic Cleanser",
+          "contentful_id": "01KlRM95tSZt8ffblzouoC"
+        },
+        {
+          "category": "cleanser",
+          "name": "Restorative Creamy Cleanser",
+          "contentful_id": "2heirhT3NyQrKEcsM0UJjf"
+        },
+        {
+          "category": "cleanser",
+          "name": "Pore Clearing Cleansing Oil",
+          "contentful_id": "wgvnA3bigtnHLu9tuh8VW"
+        },
+        {
+          "category": "cleanser",
+          "name": "Hydrating Face Wash",
+          "contentful_id": "6bGJt7iDJzy1F5pr4NVxyE"
+        },
+        {
+          "category": "cleanser",
+          "name": "Calming Cleansing Oil & Makeup Remover",
+          "contentful_id": "4adS5UN7n8L4qX2eF68oex"
+        },
+        {
+          "category": "cleanser",
+          "name": "Gentle Cleansing Milk",
+          "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
+        },
+        {
+          "category": "moisturizers & spf",
+          "name": "Hydrating Moisture Cream",
+          "contentful_id": "7qcTsisuOgoUSlIMyowDYg"
+        },
+        {
+          "category": "moisturizers & spf",
+          "name": "Clarifying Moisturizer",
+          "contentful_id": "1EGRnGzWxXEt9qNKgNPI1M"
+        },
+        {
+          "category": "moisturizers & spf",
+          "name": "Calming Moisture Cream",
+          "contentful_id": "1nAPb1U4AjrCCApbqi7bSd"
+        },
+        {
+          "category": "toner",
+          "name": "Pore Purifying Toner",
+          "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
+        },
+        {
+          "category": "toner",
+          "name": "Plump Me Up Hydrating Mist",
+          "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
+        }
    ]
 }
