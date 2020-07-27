@@ -2,42 +2,42 @@
       "products": [
         {
           "name": "Calming Cleansing Oil & Makeup Remover",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "4adS5UN7n8L4qX2eF68oex"
         },
         {
           "name": "Corrective Salicylic Cleanser",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "67ejaiy8KeBTijWmTfOndE"
         },
         {
           "name": "Gentle Cleansing Milk",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
         },
         {
           "name": "Hydrating Face Wash",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "6bGJt7iDJzy1F5pr4NVxyE"
         },
         {
           "name": "Pore Clearing Cleansing Oil",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "wgvnA3bigtnHLu9tuh8VW"
         },
         {
           "name": "Pore Purifying Cleanser",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "1Ig4fXXiQRX90qKNmQmWjp"
         },
         {
           "name": "Restorative Creamy Cleanser",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "2heirhT3NyQrKEcsM0UJjf"
         },
         {
           "name": "Resurfacing Glycolic Cleanser",
-          "category": "cleanser",
+          "category": "cleansers",
           "contentful_id": "01KlRM95tSZt8ffblzouoC"
         },
         {
@@ -227,12 +227,12 @@
         },
         {
           "name": "Plump Me Up Hydrating Mist",
-          "category": "toner",
+          "category": "toners",
           "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
         },
         {
           "name": "Pore Purifying Toner",
-          "category": "toner",
+          "category": "toners",
           "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
         }
       ]
