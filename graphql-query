@@ -1,0 +1,10 @@
+{
+  allContentfulMccProduct{
+    products:nodes{
+      name
+      category
+      contentful_id
+    }
+  }
+}
+
