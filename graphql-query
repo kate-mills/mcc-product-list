@@ -1,5 +1,7 @@
 {
-  allContentfulMccProduct{
+  allContentfulMccProduct(
+    sort: {order: [ASC, ASC], fields: [category, name]}
+  ){
     products:nodes{
       name
       category
@@ -7,4 +9,3 @@
     }
   }
 }
-
