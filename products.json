@@ -1,70 +1,192 @@
 {
   "products": [
-
-     {
-          "category": "cleanser",
-          "name": "Pore Purifying Cleanser",
-          "contentful_id": "1Ig4fXXiQRX90qKNmQmWjp"
+        {
+          "name": "Rejuvenate & Lift Powder Mask",
+          "category": "masks"
         },
         {
-          "category": "cleanser",
-          "name": "Corrective Salicylic Cleanser",
-          "contentful_id": "67ejaiy8KeBTijWmTfOndE"
+          "name": "Purifying Mask",
+          "category": "masks"
         },
         {
-          "category": "cleanser",
-          "name": "Resurfacing Glycolic Cleanser",
-          "contentful_id": "01KlRM95tSZt8ffblzouoC"
+          "name": "Plump & Renew Facial Mask",
+          "category": "masks"
         },
         {
-          "category": "cleanser",
-          "name": "Restorative Creamy Cleanser",
-          "contentful_id": "2heirhT3NyQrKEcsM0UJjf"
+          "name": "Calm & Hydrate Cream Mask",
+          "category": "masks"
         },
         {
-          "category": "cleanser",
-          "name": "Pore Clearing Cleansing Oil",
-          "contentful_id": "wgvnA3bigtnHLu9tuh8VW"
+          "name": "Gelloid Mask",
+          "category": "masks"
         },
         {
-          "category": "cleanser",
-          "name": "Hydrating Face Wash",
-          "contentful_id": "6bGJt7iDJzy1F5pr4NVxyE"
+          "name": "Ultimate Pumpkin Peel",
+          "category": "exfoliants"
         },
         {
-          "category": "cleanser",
-          "name": "Calming Cleansing Oil & Makeup Remover",
-          "contentful_id": "4adS5UN7n8L4qX2eF68oex"
+          "name": "Ultimate Performance Exfoliating Powder",
+          "category": "exfoliants"
         },
         {
-          "category": "cleanser",
-          "name": "Gentle Cleansing Milk",
-          "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
+          "name": "Retexturizing Foaming Scrub",
+          "category": "exfoliants"
         },
         {
-          "category": "moisturizers & spf",
-          "name": "Hydrating Moisture Cream",
-          "contentful_id": "7qcTsisuOgoUSlIMyowDYg"
+          "name": "Purifying Oxygen Lotion",
+          "category": "serums & specialty"
         },
         {
-          "category": "moisturizers & spf",
-          "name": "Clarifying Moisturizer",
-          "contentful_id": "1EGRnGzWxXEt9qNKgNPI1M"
+          "name": "Enzyme Powder Mask",
+          "category": "exfoliants"
         },
         {
-          "category": "moisturizers & spf",
+          "name": "Licorice Root Additive",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Glycolic Cream",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Vitamin C Serum Plus",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Vitamin C Powder Activator",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Vitamin C Powder",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Rejuvenating Peptide & Stem Cell Serum",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Prime & Protect Serum",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Lipid Replenishing Drops",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Hyaluronic Plumping Serum",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Glycolic Age Defying Serum",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Calming Serum",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Balance Essential Oil Blend",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Brighten & Restore Complex (Natures Retinol Alternative)",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Blemish Be Gone",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Calm, Nourish & Repair Oil",
+          "category": "serums & specialty"
+        },
+        {
+          "name": "Revitalizing Peptide & Stem Cell Eye Gel",
+          "category": "eyes & lips"
+        },
+        {
+          "name": "Peptide Rich & Radiant Eye Cream",
+          "category": "eyes & lips"
+        },
+        {
+          "name": "Plump & Renew Lip Balm",
+          "category": "eyes & lips"
+        },
+        {
+          "name": "Moisturizing SPF 30",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Ultra Rich Moisture Cream",
+          "category": "moisturizers & spf"
+        },
+        {
           "name": "Calming Moisture Cream",
-          "contentful_id": "1nAPb1U4AjrCCApbqi7bSd"
+          "category": "moisturizers & spf"
         },
         {
-          "category": "toner",
+          "name": "Vitamin A & E Hand & Body Lotion",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Ultimate Hydration Gel",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Oil-Free Moisturizer",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Moisturizing SPF 30 Complexion Corrector",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Hydrating Moisture Cream",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Clarifying Moisturizer",
+          "category": "moisturizers & spf"
+        },
+        {
+          "name": "Pore Purifying Cleanser",
+          "category": "cleanser"
+        },
+        {
+          "name": "Corrective Salicylic Cleanser",
+          "category": "cleanser"
+        },
+        {
+          "name": "Resurfacing Glycolic Cleanser",
+          "category": "cleanser"
+        },
+        {
+          "name": "Restorative Creamy Cleanser",
+          "category": "cleanser"
+        },
+        {
+          "name": "Pore Clearing Cleansing Oil",
+          "category": "cleanser"
+        },
+        {
+          "name": "Hydrating Face Wash",
+          "category": "cleanser"
+        },
+        {
+          "name": "Calming Cleansing Oil & Makeup Remover",
+          "category": "cleanser"
+        },
+        {
+          "name": "Gentle Cleansing Milk",
+          "category": "cleanser"
+        },
+        {
           "name": "Pore Purifying Toner",
-          "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
+          "category": "toner"
         },
         {
-          "category": "toner",
           "name": "Plump Me Up Hydrating Mist",
-          "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
+          "category": "toner"
         }
-   ]
+  ]
 }
