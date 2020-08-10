@@ -4,6 +4,7 @@
   ){
     products:nodes{
       name
+      slug
       category
       contentful_id
     }

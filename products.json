@@ -2,236 +2,283 @@
       "products": [
         {
           "name": "Calming Cleansing Oil & Makeup Remover",
+          "slug": "calming-cleansing-oil",
           "category": "cleansers",
           "contentful_id": "4adS5UN7n8L4qX2eF68oex"
         },
         {
           "name": "Corrective Salicylic Cleanser",
+          "slug": "corrective-salicylic-cleanser",
           "category": "cleansers",
           "contentful_id": "67ejaiy8KeBTijWmTfOndE"
         },
         {
           "name": "Gentle Cleansing Milk",
+          "slug": "gentle-cleansing-milk",
           "category": "cleansers",
           "contentful_id": "2uTeIhkJHgJC2Yhyy0BIGb"
         },
         {
           "name": "Hydrating Face Wash",
+          "slug": "hydrating-face-wash",
           "category": "cleansers",
           "contentful_id": "6bGJt7iDJzy1F5pr4NVxyE"
         },
         {
           "name": "Pore Clearing Cleansing Oil",
+          "slug": "pore-clearing-cleansing-oil",
           "category": "cleansers",
           "contentful_id": "wgvnA3bigtnHLu9tuh8VW"
         },
         {
           "name": "Pore Purifying Cleanser",
+          "slug": "pore-purifying-cleanser",
           "category": "cleansers",
           "contentful_id": "1Ig4fXXiQRX90qKNmQmWjp"
         },
         {
           "name": "Restorative Creamy Cleanser",
+          "slug": "restorative-creamy-cleanser",
           "category": "cleansers",
           "contentful_id": "2heirhT3NyQrKEcsM0UJjf"
         },
         {
           "name": "Resurfacing Glycolic Cleanser",
+          "slug": "resurfacing-glycolic-cleanser",
           "category": "cleansers",
           "contentful_id": "01KlRM95tSZt8ffblzouoC"
         },
         {
           "name": "Enzyme Powder Mask",
+          "slug": "enzyme-powder-mask",
           "category": "exfoliants",
           "contentful_id": "ako0uf8GHW4iPI9LvZeGW"
         },
         {
           "name": "Retexturizing Foaming Scrub",
+          "slug": "retexturizing-foaming-scrub",
           "category": "exfoliants",
           "contentful_id": "6de1BpluM7sxzuGGQcnLBV"
         },
         {
           "name": "Ultimate Performance Exfoliating Powder",
+          "slug": "ultimate-performance-exfoliating-powder",
           "category": "exfoliants",
           "contentful_id": "2Jo0tdwjn3fYc7zLOXjgYM"
         },
         {
           "name": "Ultimate Pumpkin Peel",
+          "slug": "ultimate-pumpkin-peel",
           "category": "exfoliants",
           "contentful_id": "3UIbQFdaOIXGZWttZ8l14d"
         },
         {
           "name": "Peptide Rich & Radiant Eye Cream",
+          "slug": "peptide-rich-radiant-eye-cream",
           "category": "eyes & lips",
           "contentful_id": "15k6ldp2EPCRETwaYSYLwX"
         },
         {
           "name": "Plump & Renew Lip Balm",
+          "slug": "plump-renew-lip-balm",
           "category": "eyes & lips",
           "contentful_id": "7tabwIrcSL5mfAsomL0Lyx"
         },
         {
           "name": "Revitalizing Peptide & Stem Cell Eye Gel",
+          "slug": "revitalizing-peptide-stem-cell-eye-gel",
           "category": "eyes & lips",
           "contentful_id": "57gYQwUK8UD1tWfbbhADO0"
         },
         {
           "name": "Calm & Hydrate Cream Mask",
+          "slug": "calm-hydrate-cream-mask",
           "category": "masks",
           "contentful_id": "gkAPJam26DYbnfZO7OyuR"
         },
         {
           "name": "Gelloid Mask",
+          "slug": "gelloid-mask",
           "category": "masks",
           "contentful_id": "6PMUyqWs45QI6fDtl22xU5"
         },
         {
           "name": "Plump & Renew Facial Mask",
+          "slug": "plump-renew-facial-mask",
           "category": "masks",
           "contentful_id": "49kmGBztNz392Jyw9WyeFM"
         },
         {
           "name": "Purifying Mask",
+          "slug": "purifying-mask",
           "category": "masks",
           "contentful_id": "3uYbP1INinsLpUYgGjN2z7"
         },
         {
           "name": "Rejuvenate & Lift Powder Mask",
+          "slug": "rejuvenate-lift-powder-mask",
           "category": "masks",
           "contentful_id": "29iyzdmaz0fgLRWMWZm4x7"
         },
         {
           "name": "Calming Moisture Cream",
+          "slug": "calming-moisture-cream",
           "category": "moisturizers & spf",
           "contentful_id": "1nAPb1U4AjrCCApbqi7bSd"
         },
         {
           "name": "Clarifying Moisturizer",
+          "slug": "clarifying-moisturizer",
           "category": "moisturizers & spf",
           "contentful_id": "1EGRnGzWxXEt9qNKgNPI1M"
         },
         {
           "name": "Hydrating Moisture Cream",
+          "slug": "hydrating-moisture-cream",
           "category": "moisturizers & spf",
           "contentful_id": "7qcTsisuOgoUSlIMyowDYg"
         },
         {
           "name": "Moisturizing SPF 30",
+          "slug": "moisturizing-spf-30",
           "category": "moisturizers & spf",
           "contentful_id": "2kmskIOVtwDvE0JCItW9b8"
         },
         {
           "name": "Moisturizing SPF 30 Complexion Corrector",
+          "slug": "moisturizing-spf -30-complexion-corrector",
           "category": "moisturizers & spf",
           "contentful_id": "2q3nIHW34YFO46T1zroeuP"
         },
         {
           "name": "Oil-Free Moisturizer",
+          "slug": "oil-free-moisturizer",
           "category": "moisturizers & spf",
           "contentful_id": "3ZqdPU4NOpynauRnBeuksK"
         },
         {
           "name": "Ultimate Hydration Gel",
+          "slug": "ultimate-hydration-gel",
           "category": "moisturizers & spf",
           "contentful_id": "6ACA4eivqeePsr8lCwGXAi"
         },
         {
           "name": "Ultra Rich Moisture Cream",
+          "slug": "ultra-rich-moisture-cream",
           "category": "moisturizers & spf",
           "contentful_id": "5rT6WhiFKVF6qmCGtwfm2S"
         },
         {
           "name": "Vitamin A & E Hand & Body Lotion",
+          "slug": "vitamin-a-e-hand-body-lotion",
           "category": "moisturizers & spf",
           "contentful_id": "6xtVybfvNlkPi6m93atzwZ"
         },
         {
           "name": "Balance Essential Oil Blend",
+          "slug": "balance-essential-oil-blend",
           "category": "serums & specialty",
           "contentful_id": "4EUVLLBLBiZWcDNA9cjs8h"
         },
         {
           "name": "Blemish Be Gone",
+          "slug": "blemish-be-gone",
           "category": "serums & specialty",
           "contentful_id": "1LIKjWJfwOcQKLJP5D16f6"
         },
         {
           "name": "Brighten & Restore Complex (Natures Retinol Alternative)",
+          "slug": "brighten-restore-complex",
           "category": "serums & specialty",
           "contentful_id": "1PhF531YKXAXoHQINpr5px"
         },
         {
           "name": "Calm, Nourish & Repair Oil",
+          "slug": "calm-nourish-repair-oil",
           "category": "serums & specialty",
           "contentful_id": "4opyyWk4lCPcLinNZ8fLPG"
         },
         {
           "name": "Calming Serum",
+          "slug": "calming-serum",
           "category": "serums & specialty",
           "contentful_id": "2kWEQSFb8ojANhBKGD8zLX"
         },
         {
           "name": "Glycolic Age Defying Serum",
+          "slug": "glycolic-age-defying-serum",
           "category": "serums & specialty",
           "contentful_id": "3htE7cwxOK3NDGfBvmp6zF"
         },
         {
           "name": "Glycolic Cream",
+          "slug": "glycolic-cream",
           "category": "serums & specialty",
           "contentful_id": "1axdjH83HbeZr8zRkb8QTX"
         },
         {
           "name": "Hyaluronic Plumping Serum",
+          "slug": "hyaluronic-plumping-serum",
           "category": "serums & specialty",
           "contentful_id": "7w2KEQcmUMfDNJOFDePehp"
         },
         {
           "name": "Licorice Root Additive",
+          "slug": "licorice-root-additive",
           "category": "serums & specialty",
           "contentful_id": "1sMu2a3DsCyQ7OXal78jVl"
         },
         {
           "name": "Lipid Replenishing Drops",
+          "slug": "lipid-replenishing-drops",
           "category": "serums & specialty",
           "contentful_id": "5Mk2U5fkKDmv2POY1yQnON"
         },
         {
           "name": "Prime & Protect Serum",
+          "slug": "prime-protect-serum",
           "category": "serums & specialty",
           "contentful_id": "6GdbiDR2vxAWntowYyJcXT"
         },
         {
           "name": "Purifying Oxygen Lotion",
+          "slug": "purifying-oxygen-lotion",
           "category": "serums & specialty",
           "contentful_id": "6a2e4jKIo9zEYyzmyt38te"
         },
         {
           "name": "Rejuvenating Peptide & Stem Cell Serum",
+          "slug": "rejuvenating-peptide-stem-cell-serum",
           "category": "serums & specialty",
           "contentful_id": "43CkkyHCvmZ5xNY7caMMFW"
         },
         {
           "name": "Vitamin C Powder",
+          "slug": "vitamin-c-powder",
           "category": "serums & specialty",
           "contentful_id": "6isnO1aAXE9vYmCgTuX53P"
         },
         {
           "name": "Vitamin C Powder Activator",
+          "slug": "vitamin-c-powder-activator",
           "category": "serums & specialty",
           "contentful_id": "3IKXg0DhBKmjKPEQ63nmIr"
         },
         {
           "name": "Vitamin C Serum Plus",
+          "slug": "vitamin-c-serum-plus",
           "category": "serums & specialty",
           "contentful_id": "4yoYER2ao52RNAlA5vpAPa"
         },
         {
           "name": "Plump Me Up Hydrating Mist",
+          "slug": "plump-me-up-hydrating-mist",
           "category": "toners",
           "contentful_id": "5gItRuNhtV7KkrkHpJcPe5"
         },
         {
           "name": "Pore Purifying Toner",
+          "slug": "pore-purifying-toner",
           "category": "toners",
           "contentful_id": "9MDfsD3dKL16Ko6YXKTL4"
         }
